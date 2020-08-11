@@ -3,10 +3,10 @@
 Meus interesses são:
 
 - :microscope: Ciência
-- :satellite: :electric_plug: Engenharia (elétrica/eletrônica/computação)
+- :satellite: Engenharia (elétrica/eletrônica/computação)
 - :computer: Programação
 - :hammer_and_wrench: DIY
-- :bar_chart: :pencil2: Análise/Ciência/Engenharia de Dados
+- :bar_chart: Análise/Ciência/Engenharia de Dados
 
 :construction_worker_man: (:warning: em construção :warning:) Além dos repositórios em geral, possuo um repositório com materiais de estudo em geral nas áreas de programação, matemática, física e estatística que pode ser acessado ![aqui](https://github.com/czrpxr/estudos)
 
@@ -21,7 +21,7 @@ Meus interesses são:
 ### :us::uk: Welcome :wave:
 
 - :microscope: Science
-- :satellite: :electric_plug: Engineering (electronics/computing)
+- :satellite: Engineering (electronics/computing)
 - :computer: Programming
 - :hammer_and_wrench: DIY
-- :bar_chart: :pencil2: Data Analysis/Science/Engineering
+- :bar_chart: Data Analysis/Science/Engineering
