@@ -40,7 +40,6 @@
 
 ##### Currently Studying:
 
-Atualmente estudando
 * Probability and Statistics ([source 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/), [source 2](https://www.youtube.com/c/FranciscoRodrigues))
 * Linear Algebra ([source](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI))
 * Low level programming ([source](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf))
