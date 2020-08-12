@@ -1,4 +1,4 @@
-### :brazil: Bem-vindo :wave:
+### [:brazil:] Bem-vindo :wave:
 
 Meus interesses são:
 
@@ -24,7 +24,7 @@ cezar.peixeiro@gmail.com
 
 ---
 
-### :us::uk: Welcome :wave:
+### [:us:/:uk:] Welcome :wave:
 
 - :microscope: Science
 - :satellite: Engineering (electronics/computing)
