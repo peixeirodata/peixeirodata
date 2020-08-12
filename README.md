@@ -13,7 +13,7 @@
 
 ##### Atualmente estudando
 * Probabilidade e Estatística ([referência 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/), [referência 2](https://www.youtube.com/c/FranciscoRodrigues))
-* Algebra linear ([referência](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
+* Algebra linear ([referência](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI))
 * Programação de baixo nível ([referência](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf))
 
 ---
