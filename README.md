@@ -9,7 +9,7 @@
 :hammer_and_wrench: DIY  
 :bar_chart: Análise/Ciência/Engenharia de Dados  
 
-:construction_worker_man: (:warning: em construção :warning:) Além dos repositórios em geral, possuo um repositório com materiais de estudo em geral nas áreas de programação, matemática, física e estatística que pode ser acessado [aqui](https://czrpxr.github.io/meu-caderno/)
+:construction_worker_man: (:warning: em construção :warning:) Além dos repositórios em geral, possuo um repositório com materiais de estudo em geral nas áreas de programação, matemática, física e estatística que pode ser acessado [aqui](https://www.github.com/czrpxr/meu-caderno/)
 
 ##### Atualmente estudando
 * Probabilidade e Estatística ([referência 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/), [referência 2](https://www.youtube.com/c/FranciscoRodrigues))
