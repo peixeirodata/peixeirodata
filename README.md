@@ -1,7 +1,7 @@
 ##### [PT-BR]
 ## :point_left: Este sou eu! :wave: :eyes: :metal:
 
-##### Interesses em geral:
+##### Interesses em geral:  
 
 :microscope: Ciência  
 :satellite: Engenharia (elétrica/eletrônica/computação)  
@@ -9,13 +9,13 @@
 :hammer_and_wrench: DIY  
 :bar_chart: Análise/Ciência/Engenharia de Dados  
 
-<<<<<<< HEAD
-:construction_worker_man: (:warning: em construção :warning:) Além dos repositórios em geral, possuo um repositório com materiais de estudo em geral nas áreas de programação, matemática, física e estatística que pode ser acessado [aqui](https://www.github.com/czrpxr/meu-caderno/)
-=======
-:construction_worker_man: (:warning: em construção :warning:) Além dos repositórios em geral, possuo um repositório com materiais de estudo em geral nas áreas de programação, matemática, física e estatística que pode ser acessado [aqui](https://github.com/czrpxr/meu-caderno)
->>>>>>> 551a533477a31d2ee557f84268d1d82166761e7f
+:construction_worker_man: (:warning: em construção :warning:) Além dos repositórios em geral, possuo um repositório com materiais de estudo em geral nas áreas de programação, matemática, física e estatística que pode ser acessado [aqui](https://www.github.com/czrpxr/meu-caderno/)  
 
-##### Atualmente estudando
+=======
+
+
+##### Atualmente estudando:  
+
 * Probabilidade e Estatística ([referência 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/), [referência 2](https://www.youtube.com/c/FranciscoRodrigues))
 * Algebra linear ([referência](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI))
 * Programação de baixo nível ([referência](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf))
@@ -34,7 +34,7 @@
 ##### [ENG]
 ## :point_left: That's me! :wave: :eyes: :metal:
 
-##### Interests:
+##### Interests:  
 
 :microscope: Science  
 :satellite: Engineering (electronics/computing)  
@@ -42,7 +42,7 @@
 :hammer_and_wrench: DIY  
 :bar_chart: Data Analysis/Science/Engineering  
 
-##### Currently Studying:
+##### Currently Studying:  
 
 * Probability and Statistics ([source 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/), [source 2](https://www.youtube.com/c/FranciscoRodrigues))
 * Linear Algebra ([source](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI))
